@@ -1,0 +1,6 @@
+-- NB! The solution only requires you to have run the schema creating query.
+-- Tables are created based on classes,
+-- therefore hardcoding some example data aswell in Applcation()
+
+CREATE SCHEMA IF NOT EXISTS `homework` ;
+
